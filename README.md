@@ -1,6 +1,6 @@
 # Projeto de uma calculadora de IMC desenvolvido em React JS, onde o usuário pode informar o seu peso e sua altura e descobrir qual é o seu IMC.
 
-## Desenvvolvido em React JS;
+## Desenvolvido em React JS;
 
 ### Exemplo do projeto funcionando:
 
